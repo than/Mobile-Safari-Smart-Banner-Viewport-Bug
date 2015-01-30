@@ -1,6 +1,8 @@
 # Open-a-Link
 For demonstrating a mobile Safari viewport + Smart Banner bug
 
+tl;dr [📺 Video of this bug in action »](http://youtu.be/IEILZ9uyH4g)
+
 In iOS 8, there appears to be a bug with mobile Safari and the viewport meta tag that can result in a website loading with what looks like a blank page when a Smart Banner meta tag is also present. In my tests this behavior occurs when opening this webpage via a link from another iOS app when the device is in landscape orientation.
 
 ![](http://than.to/10EVw.png)
